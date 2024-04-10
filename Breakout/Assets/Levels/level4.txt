@@ -1,0 +1,41 @@
+Map:
+------------
+q----------#
+tq--------#t
+qtq------#t#
+-qtq----#t#-
+--qtqrr#t#--
+---qtrrt#---
+---rrttrr---
+---rrttrr---
+---etrrtw---
+--eterrwtw--
+-ete----wtw
+ete------wtw
+te--------wt
+e----------w
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+Map/
+
+Meta:
+Name: LEVEL 4
+Time: 240
+Hardened: r
+Meta/
+
+Legend:
+q) green-block.png
+#) orange-block.png
+w) darkgreen-block.png
+e) purple-block.png
+r) red-block.png
+t) teal-block.png
+Legend/

@@ -1,0 +1,35 @@
+Map:
+------------
+qqqqqqqqqqqq
+qqqqqqqqqqqq
+qqqqqqqqqqqq
+qqqqqqqqqqqq
+qqqqqqqqqqqq
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+Map/
+
+Meta:
+Name: TEST
+Time: 300
+PowerUp: q
+Meta/
+
+Legend:
+q) darkgreen-block.png
+Legend/

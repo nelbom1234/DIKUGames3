@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Breakout/Breakout.csproj": {}
+  },
+  "projects": {
+    "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Breakout/Breakout.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Breakout/Breakout.csproj",
+        "projectName": "Breakout",
+        "projectPath": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Breakout/Breakout.csproj",
+        "packagesPath": "/home/nelbom1234/.nuget/packages/",
+        "outputPath": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Breakout/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nelbom1234/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/DIKUArcade.csproj": {
+                "projectPath": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/DIKUArcade.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/DIKUArcade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/DIKUArcade.csproj",
+        "projectName": "DIKUArcade",
+        "projectPath": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/DIKUArcade.csproj",
+        "packagesPath": "/home/nelbom1234/.nuget/packages/",
+        "outputPath": "/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/DIKUArcade/DIKUArcade/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nelbom1234/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

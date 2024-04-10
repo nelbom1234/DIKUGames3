@@ -1,0 +1,5 @@
+/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Galaga/obj/Debug/net6.0/Galaga.csproj.AssemblyReference.cache
+/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Galaga/obj/Debug/net6.0/Galaga.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Galaga/obj/Debug/net6.0/Galaga.AssemblyInfoInputs.cache
+/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Galaga/obj/Debug/net6.0/Galaga.AssemblyInfo.cs
+/home/nelbom1234/Documents/SU/week6/DIKUGames/DIKUGames/Galaga/obj/Debug/net6.0/Galaga.csproj.CoreCompileInputs.cache
